@@ -2,9 +2,3 @@
 
 Kaggle Digit Recognizer competition using convolutional neural networks to get 98% of accuracy.
 
-```python
-  import numpy 
-  import pandas
-
-```
-
